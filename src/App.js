@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Listing from './components/Listing.js';
+import Listing from './components/Listing.jsx';
 import Etsy from './etsy.json';
 
 function App() {
